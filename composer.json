@@ -1,0 +1,13 @@
+{
+    "name": "cyzhu/docker-php-api",
+    "description": "docker php api",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "hicyrus",
+            "email": "zhu2111@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
