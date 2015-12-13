@@ -1,12 +1,12 @@
 <?php
 
-namespace Docker\Http\Client;
+namespace HClient;
 
 //curl 请求
 
 class  HttpClient {
 
-	//post request
+	/*//post request
 	public static  function post($url,$data=array())
 	{
 		$curl = curl_init();
@@ -46,6 +46,12 @@ class  HttpClient {
 	　　//打印获得的数据
 	　　print_r($output);
 
+	}*/
+
+	public static t()
+	{
+
+		echo "<h1>Hello World!</h1>";
 	}
 
 

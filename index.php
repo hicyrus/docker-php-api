@@ -1,10 +1,14 @@
 <?php
 
-use Docker\Http\Client as client;
-
 require './vendor/autoload.php';
 
-$hc = new client\HttpClient();
+//use Docker\Http\Client as hClient;
+
+use HClient ad HC;
+
+
+
+$hc = new HC\HttpClient();
 
 echo "<pre>";
 
