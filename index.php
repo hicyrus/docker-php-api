@@ -1,6 +1,6 @@
 <?php
 
-use Docker\Http\Client ad client;
+use Docker\Http\Client as client;
 
 require './vendor/autoload.php';
 
